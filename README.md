@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Welcome to my profile! 👋</h1>
 
-<!--
-**DuTuanKiet/DuTuanKiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+Du+Tuan+Kiet;Java+Backend+Developer;Node.js,+MongoDB,+SpringBoot;Always+Learning+🚀" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 I'm a Software Engineering student.
+- 💻 Passionate about backend development: Java, Spring Boot, Node.js.
+- 🌱 Currently learning: MongoDB, Spring Security.
+- 📫 Email: dukiet205@gmail.com

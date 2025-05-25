@@ -13,5 +13,5 @@
 - 🎓 I'm a **Software Engineering** student.
 - 💻 Passionate about **backend development**: Java, Spring Boot, Node.js.
 - 🌱 Currently learning: **MongoDB**, **Spring Security**.
-- 📫 Email me at: [dukiet205@gmail.com](mailto:dukiet205@gmail.com)
-- 🚀 Always striving to learn, build, and grow.
+- 📫 I'd love to connect and learn from others — drop me a message at: dukiet205@gmail.com
+- 🚀 I’m driven by curiosity, growth, and a passion for making an impact.

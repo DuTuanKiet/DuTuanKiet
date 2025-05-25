@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/FfU0n8L.png" alt="banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Du Tuan Kiet 👋</h1>
 
 
